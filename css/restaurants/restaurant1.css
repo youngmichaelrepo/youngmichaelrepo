@@ -1,14 +1,10 @@
        body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
             background-image: url("/images/restaurants/restaurant1.jpg");
             background-size: cover;
             background-position: center center;
             background-repeat: no-repeat;
             background-attachment: fixed;
-        }
-        .container {
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;

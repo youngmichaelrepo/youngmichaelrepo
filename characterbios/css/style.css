@@ -36,8 +36,77 @@ h2 {
 
 /* Image styles */
 img {
+    display: block;
+    margin: 0 auto;
     max-width: 100%;
     height: auto;
+}
+
+/* Add a subtle border around the images */
+img {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Add a shadow effect on hover for a nice touch */
+img:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Center the character images within their sections */
+section {
+    text-align: center;
+}
+
+/* Set a maximum width for the sections to avoid excessive stretching of images on large screens */
+section {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Increase the size of the character names in the navigation bar */
+nav a {
+    font-size: 18px;
+}
+
+/* Add some space between the character names in the navigation bar */
+nav li {
+    margin-bottom: 10px;
+}
+
+/* Style the header and footer to match the character bios theme */
+header, footer {
+    background-color: #001f47;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Change the color of the footer text */
+footer p {
+    color: #ccc;
+    font-size: 14px;
+}
+
+/* Improve the appearance of the navigation links */
+nav a {
+    color: #c69b6d;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #ffd100;
+}
+
+/* Add some spacing between the navigation links */
+nav ul {
+    padding-left: 0;
+}
+
+nav li {
+    list-style: none;
+    margin-bottom: 10px;
 }
 
 /* Footer styles */

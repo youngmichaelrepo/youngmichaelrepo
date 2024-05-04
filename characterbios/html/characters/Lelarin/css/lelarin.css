@@ -18,6 +18,12 @@ header {
 section {
     background-color: #000000; /* Black */
     padding: 20px;
+    text-align: center; /* Center all content within sections */
+}
+
+/* Center h2 within section */
+section h2 {
+    text-align: center;
 }
 
 /* Footer styles */

@@ -9,7 +9,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #8B0000; /* Color */
+    background-color: #0ee620; /* Color */
     padding: 20px;
     text-align: center;
 }
@@ -35,7 +35,7 @@ img {
 
 /* Footer styles */
 footer {
-    background-color: #8B0000; /* Color */
+    background-color: #0ee620; /* Color */
     padding: 20px;
     text-align: center;
     position: fixed;
@@ -45,7 +45,7 @@ footer {
 
 /* Navigation menu styles (optional) */
 nav {
-    background-color: #8B0000; /* Color */
+    background-color: #0ee620; /* Color */
     padding: 10px;
     text-align: center;
 }

@@ -1,4 +1,4 @@
-/* Set body background color to black */
+/* Set body background color to Color */
 body {
     background-color: #000000;
     color: #ffffff; /* Text color */
@@ -9,14 +9,14 @@ body {
 
 /* Header styles */
 header {
-    background-color: #8B0000; /* Dark red */
+    background-color: #8B0000; /* Color */
     padding: 20px;
     text-align: center;
 }
 
 /* Section styles */
 section {
-    background-color: #000000; /* Black */
+    background-color: #000000; /* Color */
     padding: 20px;
     text-align: center; /* Center all content within sections */
 }
@@ -35,7 +35,7 @@ img {
 
 /* Footer styles */
 footer {
-    background-color: #8B0000; /* Dark red */
+    background-color: #8B0000; /* Color */
     padding: 20px;
     text-align: center;
     position: fixed;
@@ -45,7 +45,7 @@ footer {
 
 /* Navigation menu styles (optional) */
 nav {
-    background-color: #8B0000; /* Dark red */
+    background-color: #8B0000; /* Color */
     padding: 10px;
     text-align: center;
 }

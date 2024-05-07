@@ -9,7 +9,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #d0e60a; /* Color */
+    background-color: #FFD700; /* Color */
     padding: 20px;
     text-align: center;
 }
@@ -30,12 +30,12 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border: 5px solid #d0e60a;
+    border: 5px solid #FFD700;
 }
 
 /* Footer styles */
 footer {
-    background-color: #d0e60a; /* Color */
+    background-color: #FFD700; /* Color */
     padding: 20px;
     text-align: center;
     position: fixed;
@@ -45,7 +45,7 @@ footer {
 
 /* Navigation menu styles (optional) */
 nav {
-    background-color: #d0e60a; /* Color */
+    background-color: #FFD700; /* Color */
     padding: 10px;
     text-align: center;
 }

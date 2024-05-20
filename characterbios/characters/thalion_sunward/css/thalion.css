@@ -14,6 +14,13 @@ header {
     text-align: center;
 }
 
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #000000;
+}
+
 /* Section styles */
 section {
     background-color: #000000; /* Color */
